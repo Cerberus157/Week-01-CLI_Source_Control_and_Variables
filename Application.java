@@ -6,6 +6,8 @@ public class Application {
 		int number1 = 6;
 	       int number2 = 4;
 	       System.out.println(number1 % number2);
+	       
+	       System.out.println("Made this change to java file");
 	}
 
 }
